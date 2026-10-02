@@ -7,7 +7,9 @@ By **RisingForce**.
 
 ## Play
 
-Open `index.html` in any browser, on a phone or a computer. It's a single file
+**Play it here: https://thekillergame.github.io/mini-golf/**
+
+Or open `index.html` in any browser, on a phone or a computer. It's a single file
 with no install, no server and no internet needed (the fonts are embedded and
 the sounds are made in code). Pull back with a finger or the mouse; the
 further you pull, the harder the putt.
